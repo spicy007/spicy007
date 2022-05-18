@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @spicy007
 - 👀 I’m interested in photography, health, and reading.
-- 🌱 I’m currently learning HTML & CSS and Price Action Trading.
+- 🌱 I’m currently learning Javascript and Price Action Trading.
 - 💞️ I’m looking to collaborate on crypto marketing projects and tech career advancement.
 - 📫 Reach me @mikeyisspicy on Twitter and Instagram.
 
